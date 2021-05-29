@@ -1,6 +1,6 @@
 # The Toilet Paper Cryptocoin
-The ultimate intersection of ubiquity, utility, commodity, and disposability
-Clean transfer of digital assets into physical payments
+## The ultimate intersection of ubiquity, utility, commodity, and disposability
+## Cleanly transfer digital assets into physical payments
 ```
                                      .-------------.
                                      /               \
